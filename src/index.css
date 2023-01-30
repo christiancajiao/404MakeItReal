@@ -27,9 +27,9 @@
 .message {
 }
 .tittle {
-  font-family: monospace;
+  font-family: 'Roboto', sans-serif;
   font-size: 50px;
-  font-weight: 900;
+  font-weight: 700;
   width: 80%;
 }
 .text {

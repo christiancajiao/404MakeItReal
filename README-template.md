@@ -12,7 +12,7 @@ This is a solution to the _______ project of the Make It Real course.
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#Cristian Cajiao and Oscar Nunez)
+- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 
@@ -78,7 +78,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Cristian Cajiao and Oscar Nuñez](https://www.your-site.com)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 
