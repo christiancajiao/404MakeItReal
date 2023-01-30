@@ -12,7 +12,7 @@ This is a solution to the _______ project of the Make It Real course.
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Author](#Cristian Cajiao and Oscar Nunez)
 - [Acknowledgments](#acknowledgments)
 
 
