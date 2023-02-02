@@ -14,7 +14,6 @@
 .info {
   display: flex;
   flex-direction: row;
-  padding: 10%;
 }
 .image-container {
   width: 50%;
